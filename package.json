@@ -20,7 +20,7 @@
     "mongo-cache": "^1.0.3",
     "mongodb": "^3.6.3",
     "mongoose": "^5.13.9",
-    "redis": "^3.1.1",
+    "redis": "^3.1.2",
     "xmlhttprequest": "^1.8.0"
   }
 }
